@@ -129,7 +129,9 @@ https://cdn.redtraffic.net/gay.m3u8
 #EXTVLCOPT:network-caching=1000
 https://hv-h.phncdn.com/hls/videos/202505/06/468241655/720P_4000K_468241655.mp4/index-v1-a1.m3u8?h=y2CDeJAZvEF3T5EABTfAxwltR4w%3D&e=1765837683&f=1
 #EXTINF:-1,Canal HLS Nuevo (Prueba)
+#EXTVLCOPT:network-caching=1000
 https://hv-h.phncdn.com/hls/videos/202505/06/468241655/720P_4000K_468241655.mp4/index-v1-a1.m3u8?h=y2CDeJAZvEF3T5EABTfAxwltR4w%3D&e=1765837683&f=1
+
 
 
 
